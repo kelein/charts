@@ -17,3 +17,7 @@ NAME        URL
 ❯ helm search repo <CHART>
 ❯ helm -n <NS> install <REPO>/<CHART> --version <VERSION>
 ```
+
+## Workflow
+
+![workflow](docs/helm-workflow.png)
