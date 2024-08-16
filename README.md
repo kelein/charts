@@ -14,10 +14,18 @@ Helm Charts Library for Kubernetes, ready to launching with [Helm](https://githu
 NAME        URL
 "<REPO>"    https://kelein.github.io/charts
 
-❯ helm search repo <CHART>
+❯ helm repo update
+Hang tight while we grab the latest from your chart repositories...
+...Successfully got an update from the "urans" chart repository
+...Successfully got an update from the "bitnami" chart repository
+Update Complete. ⎈ Happy Helming! ⎈
+
+❯ helm search repo <CHART> --versions
 ❯ helm -n <NS> install <REPO>/<CHART> --version <VERSION>
 ```
 
 ## Workflow
 
 ![workflow](docs/helm-workflow.png)
+
+<img alt="workflow" width="500" src="docs/helm-workflow.png">
