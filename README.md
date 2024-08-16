@@ -26,4 +26,4 @@ Update Complete. ⎈ Happy Helming! ⎈
 
 ## Workflow
 
-<img alt="workflow" width="80%" src="docs/helm-workflow.png">
+<img alt="workflow" width="85%" src="docs/helm-workflow.png">
