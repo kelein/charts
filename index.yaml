@@ -3,7 +3,17 @@ entries:
   eaglet:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-08-15T22:13:13.781049+08:00"
+    created: "2024-08-16T10:01:11.624496+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 7703bde4413a76f3840850ada90630b96d658f6d7f9791618c62f972331773e0
+    name: eaglet
+    type: application
+    urls:
+    - eaglet-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-16T10:01:11.624089+08:00"
     description: A Helm chart for Kubernetes
     digest: 6ce582b927ac429606602dc45ea7e5dbbfda0a0bf76dcf71aafdf5537cf990fa
     name: eaglet
@@ -11,4 +21,4 @@ entries:
     urls:
     - eaglet-0.1.0.tgz
     version: 0.1.0
-generated: "2024-08-15T22:13:13.778523+08:00"
+generated: "2024-08-16T10:01:11.623348+08:00"
